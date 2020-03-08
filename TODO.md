@@ -15,4 +15,5 @@
 * CD as strategy enablement. It’s not a strategy by itself. Helps you execute Strategery. (Talk a bit about product strategy)
 * Tracey Baxter - POs speak to testers get their perspective. https://twitter.com/tbaxter78/status/1226096296567721984
 * A central thesis might be that command and control product ownership is failing us. Everyone has something to contribute of value. Testers find product risks. Developers understand cost. Etc PO is not the leader. They're just one part of the puzzle. A navigator.
+* we limit WIP to constrain input to what we can manage. We do CI/CD so that input is not constrained at the other end.
 * TODOs
