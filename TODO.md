@@ -9,6 +9,7 @@
 
 ## Possible TODOs.
 
+* Given crisis, how fast were you able to react? Change plans? Push out ideas? Experiment? Did you do anything different? *Could* you? 
 * Barry O'Reilly - past success doesn’t point to future success. CI/cd help you change faster  https://twitter.com/MindtheProduct/status/1226831752066453504
 * Forces you to constantly break stories down into small workable chunks to get value. Can talk about why we do agile (early release of value)
 * The journey to CI/cd will help@show up a world of issues. Not being able to do it or maintain it will help you see where products might fall apart unexpectedly
